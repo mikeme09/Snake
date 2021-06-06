@@ -4,7 +4,7 @@ from turtle import Turtle
 
 X = randint(-280, 280)  # generating a random coordinate for X axis
 Y = randint(-280, 280)  # generating a random coordinate for Y axis
-image = "download.gif"
+
 
 
 class Food(Turtle):
